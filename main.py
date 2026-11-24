@@ -8,7 +8,7 @@ exactly the entry bytes, nothing else.
 
 import os
 
-ENTRY = "v4.2.0: fixed a bug where crossing a doorway cleared the current task from short-term memory."
+ENTRY = "v2.0.1: fixed a bug where the brain replayed an embarrassing moment from 2009 at 3:00 a.m. with no skip button."
 
 
 def main() -> None:
